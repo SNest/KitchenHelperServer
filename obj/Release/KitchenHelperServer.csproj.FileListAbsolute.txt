@@ -1,0 +1,79 @@
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\KitchenHelperServer.dll.config
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\KitchenHelperServer.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\KitchenHelperServer.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\EntityFramework.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\HtmlAgilityPack.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Helpers.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Http.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Mvc.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Optimization.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Razor.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.WebPages.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\WebGrease.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\EntityFramework.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\HtmlAgilityPack.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\HtmlAgilityPack.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Helpers.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Http.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Mvc.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Optimization.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.Razor.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.WebPages.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\obj\Release\KitchenHelperServer.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\KitchenHelperServer\KitchenHelperServer\obj\Release\KitchenHelperServer.pdb
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\KitchenHelperServer.dll.config
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\KitchenHelperServer.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\KitchenHelperServer.pdb
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\EntityFramework.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\HtmlAgilityPack.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Http.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Razor.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\WebGrease.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\EntityFramework.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\HtmlAgilityPack.pdb
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\HtmlAgilityPack.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Http.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.Razor.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\obj\Release\KitchenHelperServer.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\obj\Release\KitchenHelperServer.dll
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\obj\Release\KitchenHelperServer.pdb
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\obj\Release\KitchenHelperServer.Migrations.M3.resources
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\obj\Release\KitchenHelperServer.csproj.GenerateResource.Cache
+C:\Users\Sergey\Source\Repos\KitchenHelper\KitchenHelperServer\obj\Release\KitchenHelperServer.Migrations.F2.resources

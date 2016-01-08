@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Fudger" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Sergey\\Source\\Repos\\KitchenHelper\\KitchenHelperServer\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Sergey\\Source\\Repos\\KitchenHelper\\KitchenHelperServer\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DbConnection-Web.config Connection String" description="" value="Data Source=tcp:thisismychatdbserver.database.windows.net,1433;Initial Catalog=Fudger_db;User Id=thisismychatdb@thisismychatdbserver;Password=Nw6nw6nw6" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Sergey\\Source\\Repos\\KitchenHelper\\KitchenHelperServer\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DbConnection']/@connectionString" />
+  </parameter>
+</parameters>
